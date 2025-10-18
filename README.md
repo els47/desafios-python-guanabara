@@ -20,9 +20,18 @@ Essa estrutura foi escolhida para facilitar o estudo e a consulta por tópico.
 Nem todos os exercícios disponíveis no curso foram resolvidos.
 Foram incluídos apenas **aqueles que correspondem aos assuntos que escolhi estudar e praticar**.
 
+### 📚 Quais assuntos estão nesse repositório?
+
+* Operadores Aritméticos;
+* Condições;
+* Condições Aninhadas;
+* Estrutura de Repetição For.
+
 ### 📂 Como está organizado o meu repositório?
 
 * Em pastas de acordo a aula ministrada;
 
-* Scripts `.py` com as resoluções dos exercícios correspondentes à aula nomeada na pasta.
+* O nome de cada pasta contém o assunto trabalhado nos exercícios e a numeração conforme apresentado nas playlists do Youtube;
+
+* Scripts `.py` com as resoluções dos exercícios correspondentes à aula nomeada na pasta - os scripts também detém comentários sobre a resolução.
 
