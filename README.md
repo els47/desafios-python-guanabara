@@ -4,7 +4,7 @@
 
 Este repositório reúne **as resoluções dos exercícios** propostos no curso de **Python do Professor Gustavo Guanabara (Curso em Vídeo)**, disponível no [YouTube](https://www.youtube.com/@cursoemvideo).
 
-### 🎯 Como minhas pastas estão organizadas?
+### 🎯 Como as pastas estão organizadas?
 
 No curso original, as aulas e exercícios estão divididos em três playlists:
 
@@ -27,7 +27,7 @@ Foram incluídos apenas **aqueles que correspondem aos assuntos que escolhi estu
 * Condições Aninhadas;
 * Estrutura de Repetição For.
 
-### 📂 Como está organizado o meu repositório?
+### 📂 Como está organizado o repositório?
 
 * Em pastas de acordo a aula ministrada;
 
