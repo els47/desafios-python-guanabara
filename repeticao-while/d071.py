@@ -1,0 +1,2 @@
+# Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues. As cédulas disponíveis serão as de R$50, R$20, R$10 e R$1. Observe que o programa não deve se preocupar com a quantidade de cédulas disponíveis na máquina.
+# OBS: Considere que o caixa possui cédulas limitadas a R$50, R$20, R$10 e R$1
