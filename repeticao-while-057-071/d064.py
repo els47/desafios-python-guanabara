@@ -3,7 +3,7 @@
 n = 0
 contador = 0
 soma = 0
-n = int(input('Digite um novo número inteiro. Se quiser parar, digite 999: '))
+n = int(input('Digite um novo número inteiro. Se quiser parar, digite 999: ')) # Se for 999, não entrará no laço
 
 while n != 999:
     soma += n

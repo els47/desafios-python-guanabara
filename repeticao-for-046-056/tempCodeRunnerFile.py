@@ -1,0 +1,1 @@
+decimo_termo = primeiro_termo + (10 - 1) * razao
